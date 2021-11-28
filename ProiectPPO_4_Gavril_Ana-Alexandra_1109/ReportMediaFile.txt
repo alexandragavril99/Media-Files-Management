@@ -1,0 +1,18 @@
+Raport bazat pe dimensiunea fisierelor
+
+Fisiere cu dimensiunea sub 10MB:
+C:/Users/alexa/MediaPPOO/3.jpg - 4.16MB
+C:/Users/alexa/MediaPPOO/5.png - 0.36MB
+C:/Users/alexa/MediaPPOO/LayAllYourLoveOnMe.mp3 - 4.24MB
+C:/Users/alexa/MediaPPOO/1.jpg - 1.64MB
+C:/Users/alexa/MediaPPOO/ABBA-TheWinner.mp3 - 4.45MB
+C:/Users/alexa/MediaPPOO/2.jpg - 0.29MB
+
+Fisiere cu dimensiunea peste 10MB:
+C:/Users/alexa/MediaPPOO/CORALINE.wav - 55.01MB
+C:/Users/alexa/MediaPPOO/Nightwish.wav - 45.63MB
+
+Media dimensiunilor per categorie
+Audio - 27.3325MB
+Photo - 1.6125MB
+Total - 14.4725MB

@@ -1,0 +1,9 @@
+8
+Audio 1 C:/Users/alexa/MediaPPOO/LayAllYourLoveOnMe.mp3 4.24 34722.0
+Photo 4 C:/Users/alexa/MediaPPOO/1.jpg 1.64 2048X1264
+Photo 6 C:/Users/alexa/MediaPPOO/2.jpg 0.29 2814X4221
+Audio 7 C:/Users/alexa/MediaPPOO/CORALINE.wav 55.01 450621.0
+Photo 9 C:/Users/alexa/MediaPPOO/3.jpg 4.16 8113X5453
+Audio 10 C:/Users/alexa/MediaPPOO/ABBA-TheWinner.mp3 4.45 36442.0
+Audio 12 C:/Users/alexa/MediaPPOO/Nightwish.wav 45.63 373814.0
+Photo 13 C:/Users/alexa/MediaPPOO/5.png 0.36 800X450
